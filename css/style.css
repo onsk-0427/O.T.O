@@ -76,3 +76,30 @@ img{
 .button:hover{
     background: #0090aa;
 }
+
+.big-ba{
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+}
+
+#home{
+    background-image: url(https://s4.aconvert.com/convert/p3r68-cdx67/a7hj6-qab5c.svg), linear-gradient(#eaf6fd, #00005d);
+    background-blend-mode: luminosity;
+    min-height:  100vh;
+}
+
+#home .page-title{
+    text-transform: none;
+}
+/*EVENTS*/
+#EVENTS{
+    background-image: url(https://s4.aconvert.com/convert/p3r68-cdx67/a7hj6-qab5c.svg), linear-gradient(#eaf6fd, #00005d);
+    background-blend-mode: luminosity;
+    height:  270px;
+    margin-bottom: 40px;
+}
+
+#EVENTS .page-title{
+    text-align: center;
+}
